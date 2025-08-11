@@ -51,3 +51,5 @@ plt.legend()
 plt.show()
 ```
 <img src="sawtt.png" alt="Alt text" width="700">
+
+It seems that ChatGPT is highly capable when it comes to Fourier analysis. It can accurately compute Fourier coefficients and generate correct Python code to plot partial Fourier sums for different values of N. Whether you’re exploring a square wave, sawtooth wave, or any other periodic function, ChatGPT can guide you through both the mathematics and the implementation with precision.
