@@ -1,4 +1,4 @@
-# Fourier Analysis (BY ChatGPT)
+#  Can ChatGPT do Fourier Analysis?
 ![Alt text](FSDefinition.jpg)
 ![Alt text](example.jpg)
 ![Alt text](sqr.png)
